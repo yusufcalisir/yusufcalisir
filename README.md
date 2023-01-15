@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<iframe src="https://giphy.com/embed/JyxdzuAaxZnPH7TyRd" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programming-developer-programmer-JyxdzuAaxZnPH7TyRd">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **React.js**
 
