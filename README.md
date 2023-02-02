@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Frontend Developer**
 
-- 🤝 I’m looking for help with **Angular**
-
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **ysfcals@gmail.com**
