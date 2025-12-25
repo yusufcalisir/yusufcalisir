@@ -4,13 +4,9 @@
 </div>
 
 
-- 🔭 I’m currently working on **React.js**
+- 🌱 I’m currently learning **FL algorithms**
 
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Frontend Developer**
-
-- 💬 Ask me about **React.js**
+- 👯 I’m looking to collaborate on **Software Developer**
 
 - 📫 How to reach me **ysfcals@gmail.com**
 
